@@ -1,5 +1,6 @@
 # Student-Management-Java
-Basic student management GUI created in java with MySQL connectivity and basic CRUD operations and validations. <hr><br>
+Basic student management GUI created in java with MySQL connectivity and basic CRUD operations and validations. <hr>
+**Technology Used**- JAVA</br><hr>
 **Steps to run project**<br>
 <ul>
   <li>Create a table with name 'student'</li>
